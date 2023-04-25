@@ -7,7 +7,7 @@ package com.portfolio.mvc.Service;
 
 /**
  *
- * @author Gonzalo
+ * @author Marcela
  */
 import com.portfolio.mvc.Entity.Proyectos;
 import com.portfolio.mvc.Repository.RProyectos;

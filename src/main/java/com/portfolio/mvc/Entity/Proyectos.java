@@ -7,7 +7,7 @@ package com.portfolio.mvc.Entity;
 
 /**
  *
- * @author Gonzalo
+ * @author Marcela
  */
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

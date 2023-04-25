@@ -7,7 +7,7 @@ package com.portfolio.mvc.Security.Enums;
 
 /**
  *
- * @author Gonzalo
+ * @author Marcela
  */
 public enum RolNombre {
     ROLE_ADMIN, ROLE_USER

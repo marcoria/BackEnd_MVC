@@ -7,7 +7,7 @@ package com.portfolio.mvc.Dto;
 
 /**
  *
- * @author marcela
+ * @author Marcela
  */
 import javax.validation.constraints.NotBlank;
 

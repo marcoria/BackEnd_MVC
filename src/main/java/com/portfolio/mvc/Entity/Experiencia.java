@@ -12,7 +12,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Gonzalo
+ * @author Marcela
  */
 
 
